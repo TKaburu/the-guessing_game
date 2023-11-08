@@ -8,7 +8,7 @@ These instructions will help you set up and run the game on your local machine.
 
 ### Prerequisites
 
-- Python 3.x installed on your machine. You can download it from the [official Python website](https://www.python.org/).
+- Python3 installed on your machine. You can download it from the [official Python website](https://www.python.org/).
 
 ### Installation
 
