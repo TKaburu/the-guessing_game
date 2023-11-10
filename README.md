@@ -14,7 +14,7 @@ These instructions will help you set up and run the game on your local machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/guessing-game.git
+   git clone https://github.com/TKaburu/guessing-game.git
 2. **Navigate to the project directory:**
    ```bash
    cd guessing-game
