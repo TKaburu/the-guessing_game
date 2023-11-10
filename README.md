@@ -17,7 +17,7 @@ These instructions will help you set up and run the game on your local machine.
    git clone https://github.com/TKaburu/the-guessing_game.git
 2. **Navigate to the project directory:**
    ```bash
-   cd guessing-game
+   cd the-guessing_game
 3. **Run the game:**
    ```bash
    python3 guessing_game.py
